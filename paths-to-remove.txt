@@ -1,0 +1,6 @@
+src/modules/ML/4.Recommender_engines/labo_solution/Fashion/tops_fashion.json
+src/modules/ML/4.Recommender_engines/labo_solution/Movies/credits.csv
+src/modules/ML/4.Recommender_engines/labo_solution/Fashion/knnpickle_file
+src/modules/ML/3.Unsupervised_learning/Unsupervised_clustering/les7_demo_lab/pickled_simpson_gray.pkl
+src/modules/ML/3.Unsupervised_learning/Unsupervised_clustering/les7_demo_lab/pickled_simpson.pkl
+src/modules/ML/3.Unsupervised_learning/Unsupervised_dimensiereductie/labo_solution/fashion-mnist_train.csv
